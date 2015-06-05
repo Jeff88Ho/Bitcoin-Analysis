@@ -1,3 +1,3 @@
 # Bitcoin-analysis
 
-Explore the relationship b/t Bitcoin price and social website 
+Explore the relationship b/t Bitcoin price and factors like Blockchain statistics, social website, foreign exchange...
